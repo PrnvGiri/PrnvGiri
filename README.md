@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Giri</h1>
 <h3 align="center">Student and Passionate to Learn coding.</h3>
 
-- 🌱 I’m currently learning **C Programming language**
+- 🌱 I’m currently learning **C++ Programming language**
 
 - 📫 My Gmail - **pranav.giri.35@gmail.com**
 
