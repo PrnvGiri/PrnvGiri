@@ -45,18 +45,7 @@ I build software across generative AI, AI SaaS platforms, and intelligent system
   </a>
 </p>
 
----
 
-### Activity
-
-<p align="center">
-  <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrnvGiri&theme=github_dark" width="100%">
-</p>
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrnvGiri&theme=github_dark" height="155">
-  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrnvGiri&theme=github_dark" height="155">
-</p>
 
 ---
 
