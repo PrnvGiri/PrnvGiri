@@ -22,10 +22,10 @@
 
 ### About
 
-I build software across systems programming, low-latency display bridges, and generative AI. I enjoy taking complex technical problems, understanding how they work under the hood, and building clean, fast solutions for them.
+I build software across generative AI, AI SaaS platforms, and intelligent systems. I enjoy taking complex technical problems, understanding how they work under the hood, and building clean, production-ready solutions for them.
 
-- **Focus:** Low-level macOS display pipelines, autonomous AI workflows, and token optimization.
-- **Languages:** C++, Python, Swift, Kotlin, and SQL.
+- **Focus:** AI SaaS, LLM fine-tuning, autonomous agentic workflows, and token optimization.
+- **Languages:** Python, C++, SQL, Swift, and JavaScript.
 - **Distinction:** 5-Star C++ on HackerRank (Top 1% Global).
 
 ---
