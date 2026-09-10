@@ -26,7 +26,7 @@ I build software across generative AI, AI SaaS platforms, and intelligent system
 
 - **Focus:** AI SaaS, LLM fine-tuning, autonomous agentic workflows, and token optimization.
 - **Languages:** Python, C++, SQL, Swift, and JavaScript.
-- **Distinction:** 5-Star C++ on HackerRank (Top 1% Global).
+- **Background:** I used to be a medical student.
 
 ---
 
