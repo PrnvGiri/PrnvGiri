@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="./roomVibe.gif" alt="Pixel Art Room Vibe" width="240" height="360" />
+
   <h1>Pranav Giri</h1>
   <p>
     <strong>AI SaaS • Model Fine-Tuning • Autonomous Agentic Workflows</strong>
@@ -44,8 +46,6 @@ I build software across generative AI, AI SaaS platforms, and intelligent system
     <img src="https://skillicons.dev/icons?i=py,cpp,swift,kotlin,postgres,docker,git,linux,pytorch,flask,js,bash" alt="Stack" />
   </a>
 </p>
-
-
 
 ---
 
