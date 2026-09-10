@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./roomVibe.gif" alt="Pixel Art Room Vibe" width="240" height="360" />
+  <img src="./Banner.gif" alt="Banner" width="100%" />
 
   <h1>Pranav Giri</h1>
   <p>
